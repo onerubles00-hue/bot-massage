@@ -3,7 +3,7 @@
 echo "🚀 Установка бота..."
 
 
-cd bot-massage || exit
+cd /home/anatoliy/bot-massage/|| exit
 
 # Создание виртуального окружения
 python3 -m venv venv
