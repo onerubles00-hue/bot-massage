@@ -2,8 +2,6 @@
 
 echo "🚀 Установка бота..."
 
-# Клонирование проекта
-git clone https://github.com/onerubles00-hue/bot-massage.git
 
 cd bot-massage || exit
 
