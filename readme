@@ -4,3 +4,9 @@ git clone https://github.com/onerubles00-hue/bot-massage.git
 cd /home/anatoliy/bot-massage/
 bash install.sh
 source install.sh
+cd /home/anatoliy/bot-massage
+nano bot-massage.py
+Указываем TOKEN = "" и ADMIN_ID = 
+После того как все указано ctrl+0 ctrl+x
+python bot-massage.py
+
